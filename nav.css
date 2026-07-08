@@ -1,0 +1,49 @@
+.container{
+    max-width: 1200px;  
+    margin :auto;  
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0B0B0B;
+}
+
+.navigation img{
+    height: 2rem;
+    background-color: #979797;
+    padding:5px;
+    border-radius: 10px;
+    margin:10px 3rem;
+}
+.nav-options ul{
+    display: flex;
+    margin-right: 50px;
+    list-style: none;
+}
+
+.nav-options ul a{
+    text-decoration: none;
+    padding:10px;
+    color: #FFFFFF;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 0 15px;
+    border-radius: 30px;
+    padding: 0.7rem 2rem;
+}
+
+.nav-options ul a:hover{
+    
+    border: 1px solid white;
+}
+
+.outline-button{
+    color: #0b0b0b!important;
+    background-color: white;
+}
+.outline-button:hover{
+    color: #FFFFFF!important;
+    background-color: #0B0B0B;
+}
