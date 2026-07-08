@@ -1,0 +1,71 @@
+.skills{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width:50%;
+}
+
+.skills h2{
+    margin:3rem 0;
+}
+
+.skillset{
+    display: flex;
+    justify-content: center;
+}
+
+.logos{
+    height:100px;
+    width:100px;
+    margin: 1.5rem;
+}
+
+.logos:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.fa-html5{
+    color:rgb(239, 72, 0);
+}
+.fa-css3-alt{
+    color:rgb(0, 59, 234);
+}
+
+.fa-sass{
+    color:rgb(255, 100, 234);
+}
+
+.fa-js{
+    color:rgb(255, 221, 0);
+    background-color: black;
+}
+
+.fa-react{
+    color:rgb(0, 191, 255);
+}
+
+.fa-bootstrap{
+    color:rgb(164, 0, 164);
+}
+.fa-git-alt{
+    color:rgb(194, 58, 0);
+}
+.fa-figma{
+    color:rgb(221, 4, 0);
+}
+
+.fa-node-js{
+    color:green;
+}
+.fa-postgresql{
+    color:rgb(0, 44, 239);
+}
+
+.fa-typescript{
+    color: rgb(0, 88, 165);
+}
+.fa-angular{
+    color: rgb(186, 11, 11);
+}

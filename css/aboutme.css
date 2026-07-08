@@ -18,7 +18,7 @@
     align-items: center;
 }
 
-.aboutme h1{
+.button{
     font-weight: 500;
     font-size: 1.6rem;
     border: 5px solid black;
@@ -28,7 +28,7 @@
     cursor: pointer;
 }
 
-.aboutme h1:hover{
+.button:hover{
     background-color: black;
     color:white;
 }
