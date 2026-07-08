@@ -15,7 +15,7 @@
     background-color: #D7D7D7;
     padding:5px;
     border-radius: 10px;
-    margin:10px 3rem;
+    margin:10px 0;
 }
 .nav-options ul{
     display: flex;
@@ -37,7 +37,7 @@
 
 .nav-options ul a:hover{
     
-    border: 1px solid white;
+    border: 2px solid white;
 }
 
 .outline-button{
