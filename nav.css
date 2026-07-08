@@ -6,7 +6,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #0B0B0B;
+    /* background-color: #0B0B0B; */
 }
 
 .navigation img{
