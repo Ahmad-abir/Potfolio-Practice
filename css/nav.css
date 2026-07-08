@@ -1,6 +1,7 @@
 .container{
     max-width: 1200px;  
     margin :auto;  
+    font-family: "Montserrat", sans-serif;
 }
 .navigation{
     display: flex;
