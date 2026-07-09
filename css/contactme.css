@@ -1,0 +1,28 @@
+.contactme{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactme form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactme form input,.inp{
+    width: 30rem;
+    height: 2rem;
+    margin: 1rem;
+    padding: 1rem;
+    border :none;
+    box-shadow: -5px -5px black;
+    font-family: "Montserrat", sans-serif;
+}
+
+.contact-form button{
+    border-radius: 40px;
+}
+
